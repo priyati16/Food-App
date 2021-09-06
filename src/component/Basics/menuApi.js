@@ -1,0 +1,100 @@
+const Menu = [
+    {
+    id:1,
+    image:"images/Maggie.jpg",
+    name:"Maggie",
+    category:"Breakfast",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:2,
+    image:"images/Poha.jpg",
+    name:"Poha",
+    category:"Breakfast",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:3,
+    image:"images/breakfast1.jpg",
+    name:"Idly",
+    category:"Breakfast",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:4,
+    image:"images/sandwich.jpg",
+    name:"Sandwitch",
+    category:"Breakfast",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:5,
+    image:"images/Salad.jpg",
+    name:"Salad",
+    category:"Breakfast",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:6,
+    image:"images/Dosa.jpg",
+    name:"Dosa",
+    category:"Breakfast",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+
+    {
+    id:8,
+    image:"images/Lunch3.jpg",
+    name:"Non-veg Thali",
+    category:"lunch",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:9,
+    image:"images/lunch2.jpg",
+    name:"Veg Thali",
+    category:"lunch",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:10,
+    image:"images/breakfast1.jpg",
+    name:"Diet-Dinner",
+    category:"Dinner",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:11,
+    image:"images/lunch1.jpg",
+    name:"Special Thali",
+    category:"lunch",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:12,
+    image:"images/dinner2.jpg",
+    name:"Hakka-Noodles",
+    category:"Dinner",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+},
+    {
+    id:13,
+    image:"images/Dinner1.jpg",
+    name:"Special-dinner",
+    category:"Dinner",
+    price:25,
+    description:"lorem24kjhfvkjhfjvhfjvjcbvjfvjdfjvbdj"
+}
+];
+export default Menu;
